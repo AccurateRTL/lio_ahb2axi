@@ -3,7 +3,7 @@
 # SPDX-License-Identifier: MIT
 
 package:
-  name: ahb2axi
+  name: lio_ahb2axi
 
 sources:
   - hw/rtl/ahb2axi.sv  
