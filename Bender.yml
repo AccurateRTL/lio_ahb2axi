@@ -6,7 +6,7 @@ package:
   name: lio_ahb2axi
 
 sources:
-  - hw/rtl/ahb2axi.sv  
+  - hw/rtl/lio_ahb2axi.sv  
   
   # TB sources
   - target: any(test,simulation)
